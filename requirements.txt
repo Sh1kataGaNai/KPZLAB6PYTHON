@@ -44,7 +44,7 @@ iptools==0.6.1
 IPy==0.83
 itsdangerous==0.24
 jack==3.1.1
-Jinja2==2.9.6
+Jinja2==2.11.3
 lxml==4.0.0
 M2Crypto==0.22.6rc4
 macholib==1.8

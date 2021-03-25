@@ -80,7 +80,7 @@ Pyste==0.9.10
 python-magic==0.4.13
 pytz==2017.3
 pyvorbis==1.5
-PyYAML==3.11
+PyYAML==5.4
 requests==2.18.4
 scapy==2.3.3
 service-identity==17.0.0

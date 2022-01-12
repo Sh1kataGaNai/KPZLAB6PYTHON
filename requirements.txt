@@ -23,7 +23,7 @@ constantly==15.1.0
 construct==2.5.2
 cryptography==2.0.3
 dis3==0.1.1
-dnslib==0.9.7
+dnslib==0.9.17
 dnspython==1.15.0
 dropbox==8.5.0
 enum34==1.1.6
